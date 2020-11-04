@@ -3,9 +3,6 @@ today is my first day git
 thanks
 Things i add in my second day
 test123
-<<<<<<< HEAD
-add 11/4
-=======
 
 
 GIT REMOTE TEST
@@ -14,11 +11,9 @@ try again
 
 
 PULL TEST
-<<<<<<< HEAD
+
 
 push upstream master ADD 邀請人修改
-=======
->>>>>>> 990bbd82f942157cb8eaddc9f39a386759b5e1a1
->>>>>>> 163858564029568e59a45c169aaf8a3240a0c0f4
+
 
 GITHUB 邀請人增加 
