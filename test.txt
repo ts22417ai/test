@@ -17,5 +17,3 @@ push upstream master ADD 邀請人修改
 
 
 GITHUB 邀請人增加 
-
-斷頭移回原本再加東西
