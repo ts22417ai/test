@@ -9,5 +9,11 @@ GIT REMOTE TEST
 
 try again
 
-11/5
 
+PULL TEST
+
+
+push upstream master ADD 邀請人修改
+
+
+GITHUB 邀請人增加 
